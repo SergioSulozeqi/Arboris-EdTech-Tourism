@@ -1,0 +1,7 @@
+{
+  "name": "ARBORIS - Monte di Malo Mappa & Percorsi",
+  "description": "Piattaforma interattiva di esplorazione territoriale per Monte di Malo e Priabona, con mappa dei totem, navigazione percorsi, simulazione QR code e quiz/minigiochi per ogni tappa.",
+  "requestFramePermissions": ["camera", "geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
